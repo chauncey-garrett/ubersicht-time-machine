@@ -89,7 +89,7 @@ style: """
   border none
   box-sizing border-box
   color #141f33
-  font-family Helvetica Neue
+  font-family: Avenir Next, Helvetica Neue
   font-weight 300
   line-height 1.5
   padding 0
